@@ -49,3 +49,23 @@ p{
 #menu a:hover{
     color:#5077bd;
 }
+/*====TABLE====*/
+
+table{
+    width:100%;
+    border-collapse: collapse;
+    text-align: left;
+}
+
+td,th{
+    border:1px solid #64B5F6;
+    padding: 5px;
+}
+
+#table-heading {
+    background-color:#64B5F6;
+}
+
+#table-heading h3{
+    color: #ffffff;
+}
